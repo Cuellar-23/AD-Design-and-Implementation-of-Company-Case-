@@ -11,8 +11,8 @@ Creation of Orginizational Unit for the Company "Blue Water" : <br/>
 <img src="https://github.com/Cuellar-23/AD-Design-and-Implementation-of-Company-Case-/blob/main/Screenshot%202025-05-07%20102230.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Specifications for DC01 (VM running Windows Server 2022):  <br/>
-<img src="https://github.com/Cuellar-23/Creation-of-Domain-controller-and-VM/blob/main/Screenshot%202025-05-07%20085346.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The creation of Security Groups for every department:  <br/>
+<img src="https://github.com/Cuellar-23/AD-Design-and-Implementation-of-Company-Case-/blob/main/Screenshot%202025-05-07%20132921.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Specifications for PC01 (VM running Windows 10)  <br/>
