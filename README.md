@@ -23,8 +23,8 @@ Adding Users to Groups:  <br/>
 <img src="https://github.com/Cuellar-23/AD-Design-and-Implementation-of-Company-Case-/blob/main/Screenshot%202025-05-07%20134809.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-The section of the Active Directory Domain Services role on DC01:  <br/>
-<img src="https://github.com/Cuellar-23/Creation-of-Domain-controller-and-VM/blob/main/Screenshot%202025-05-07%20094759.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Shared directories created for this project:  <br/>
+<img src="https://github.com/Cuellar-23/AD-Design-and-Implementation-of-Company-Case-/blob/main/Screenshot%202025-05-07%20135749.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Server Manager dashboard after Active Directory role is added and DC01 is promoted to Domain Controller:  <br/>
