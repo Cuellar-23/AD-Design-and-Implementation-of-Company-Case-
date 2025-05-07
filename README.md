@@ -7,8 +7,8 @@
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Both Virtual Machines created in Hyper-V : <br/>
-<img src="https://github.com/Cuellar-23/Creation-of-Domain-controller-and-VM/blob/main/Screenshot%202025-05-07%20084934.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creation of Orginizational Unit for the Company "Blue Water" : <br/>
+<img src="https://github.com/Cuellar-23/AD-Design-and-Implementation-of-Company-Case-/blob/main/Screenshot%202025-05-07%20102230.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Specifications for DC01 (VM running Windows Server 2022):  <br/>
