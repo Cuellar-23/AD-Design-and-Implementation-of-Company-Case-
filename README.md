@@ -1,7 +1,7 @@
 <h1>AD-Design-and-Implementation-of-Company-Case</h1>
 
 <h2>Description</h2>
- In this project I will create a simulated enterprise network by configuring two virtual machines (VMs): one running Windows Server 2022 and the other Windows 10 using Hyper-V. Once both machines were created in Hyper-V, I configured the Machines, assigning computer names and IP addresses. After that I performed a ping test ensuring both machines can communicate with one another. Next, I installed the Active Directory Domain Services (AD DS) role on the Windows Server Machine, promoted it to a domain controller, and joined the Windows 10 Machine to the newly created domain.  
+In this project I will Establish a structured Active Directory (AD) environment for a Company to manage users, groups, shared resources, and printers efficiently. 
 <br />
 
 <h2>Project walk-through:</h2>
