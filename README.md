@@ -19,7 +19,7 @@ Creation of User accounts and passwords  <br/>
 <img src="https://github.com/Cuellar-23/AD-Design-and-Implementation-of-Company-Case-/blob/main/Screenshot%202025-05-07%20133205.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Adding Users to Groups:  <br/>
+Adding Users to Designated Groups:  <br/>
 <img src="https://github.com/Cuellar-23/AD-Design-and-Implementation-of-Company-Case-/blob/main/Screenshot%202025-05-07%20134809.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
