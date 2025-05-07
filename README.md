@@ -19,8 +19,8 @@ Creation of User accounts  <br/>
 <img src="https://github.com/Cuellar-23/AD-Design-and-Implementation-of-Company-Case-/blob/main/Screenshot%202025-05-07%20133205.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Ping test between DC01 (10.0.0.100) and PC01 (10.0.0.101):  <br/>
-<img src="https://github.com/Cuellar-23/Creation-of-Domain-controller-and-VM/blob/main/Screenshot%202025-05-07%20093637.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Adding Users to Groups:  <br/>
+<img src="https://github.com/Cuellar-23/AD-Design-and-Implementation-of-Company-Case-/blob/main/Screenshot%202025-05-07%20134809.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 The section of the Active Directory Domain Services role on DC01:  <br/>
