@@ -31,8 +31,8 @@ User's Home Directories:  <br/>
 <img src="https://github.com/Cuellar-23/AD-Design-and-Implementation-of-Company-Case-/blob/main/Screenshot%202025-05-07%20140006.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Creation of my Domain jcuellar.local and succesful join of PC01 to the Domain :  <br/>
-<img src="https://github.com/Cuellar-23/Creation-of-Domain-controller-and-VM/blob/main/Screenshot%202025-05-07%20095712.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Shared printers with related permissions:  <br/>
+<img src="https://github.com/Cuellar-23/AD-Design-and-Implementation-of-Company-Case-/blob/main/Screenshot%202025-05-07%20140359.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 
