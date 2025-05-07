@@ -1,7 +1,7 @@
 <h1>AD-Design-and-Implementation-of-Company-Case</h1>
 
 <h2>Description</h2>
-In this project I will Establish a structured Active Directory (AD) environment for a Company to manage users, groups, shared resources, and printers efficiently. 
+In this project I will establish a structured Active Directory environment for a Company to manage users, groups, shared resources, and printers. 
 <br />
 
 <h2>Project walk-through:</h2>
